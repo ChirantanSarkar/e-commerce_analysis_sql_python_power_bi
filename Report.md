@@ -138,7 +138,7 @@ ___
 
 # City-wise Performance Analysis
 
-## Revenue by City
+## City-wise revenue
 
 | City      | Revenue (₹) |
 | --------- | ----------: |
@@ -154,10 +154,11 @@ ___
 ### Insight
 
 Ahmedabad generated the highest revenue among all cities, while Pune generated the lowest.
+### Chart
+<img width="908" height="470" alt="image" src="https://github.com/user-attachments/assets/f2673b44-0a7d-4992-8a16-27d1fc281d24" />
+___
 
----
-
-## Customer Ratings by City
+## City-wise Customer Ratings 
 
 | City      | Avg Rating |
 | --------- | ---------: |
@@ -174,9 +175,12 @@ Ahmedabad generated the highest revenue among all cities, while Pune generated t
 
 Mumbai achieved the highest customer satisfaction score, whereas Hyderabad recorded the lowest average rating.
 
+### Chart
+<img width="855" height="393" alt="image" src="https://github.com/user-attachments/assets/0ced4112-7b09-4dda-a168-02bcabe0236e" />
+
 ___
 
-## Average Delivery Time by City
+## City-wise Average Delivery Time
 
 | City      | Delivery Time (Minutes) |
 | --------- | ----------------------: |
@@ -192,7 +196,8 @@ ___
 ### Insight
 
 Delhi maintained the fastest delivery performance, while Chennai recorded the longest average delivery times.
-
+### Chart
+<img width="855" height="393" alt="image" src="https://github.com/user-attachments/assets/343335ee-8d85-42f5-8dd9-37ef52aeb3c6" />
 ___
 
 # Payment Method Analysis
@@ -210,6 +215,8 @@ ___
 * Cash on Delivery remained the most preferred payment method.
 * Digital payment methods collectively accounted for the majority of transactions.
 
+### Chart
+<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/a0128fdd-0f9b-496b-8bc2-3015051b8b4d" />
 ___
 
 # Order Status Analysis
@@ -226,6 +233,8 @@ ___
 * 16.8% of orders were cancelled.
 * 15.5% of orders were returned.
 
+### Chart
+<img width="411" height="411" alt="image" src="https://github.com/user-attachments/assets/43e0df36-3df2-466a-bc2f-f1b268192224" />
 ___
 
 # Business Recommendations
