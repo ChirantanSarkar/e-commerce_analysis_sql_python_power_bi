@@ -244,7 +244,6 @@ ___
 3. Investigate factors contributing to slower deliveries in Chennai and Hyderabad.
 4. Promote digital payment methods through rewards and cashback programs.
 5. Analyze reasons for cancellations and returns to improve order fulfillment efficiency.
-
 ___
 
 # Conclusion
@@ -252,5 +251,8 @@ ___
 The Blinkit e-commerce platform demonstrates strong sales performance with stable revenue generation, efficient delivery operations, and positive customer satisfaction levels.
 
 Revenue is primarily driven by high-value categories such as Meat & Seafood and Staples, while city-wise analysis highlights opportunities to improve customer experience and logistics performance in specific markets.
+___
 
+# Author
+**Chirantan Sarkar**
 ___
